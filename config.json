@@ -1,4 +1,4 @@
 {
-  "dl": "https://crates.io/api/v1/crates",
-  "api": "https://crates.io"
+  "dl": "https://register-me.herokuapp.com/api/v1/crates",
+  "api": "https://register-me.herokuapp.com"
 }
